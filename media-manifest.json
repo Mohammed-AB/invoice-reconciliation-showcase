@@ -1,0 +1,16 @@
+{
+  "project": "Invoice Reconciliation",
+  "reviewed": "2026-11-10",
+  "assets": [
+    {
+      "path": "media/overview.png",
+      "bytes": 173750,
+      "sha256": "feb0b381ea8fa53eae4f19b066f30297631f33f1073b21e9b6a9cfc1f98e9055"
+    },
+    {
+      "path": "media/walkthrough.mp4",
+      "bytes": 2991099,
+      "sha256": "5c8dda4c3c430c0bac57fc1c633df4b49b50596d56df93753ea14443d354d205"
+    }
+  ]
+}
